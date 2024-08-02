@@ -1,8 +1,13 @@
+**Student Details:**   
 **Name:** SURYAKANT KULKARNI    
 **Company:** CODETECH IT SOLUTIONS     
 **ID:** CT08DS4422    
 **Domain:** CYBERSECURITY & ETHICAL HACKING    
 **Duration:** JULY TO AUGUST 2024
+
+**Mentor Details:**        
+**Name:** MUZAMMIL AHMED    
+**Contact:** +91 9640128015
 
 # Overview of the Project    
 ## Title of Project: Vulnerability Scanning Tool    
